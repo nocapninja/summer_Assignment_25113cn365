@@ -12,6 +12,6 @@ int main(){
     printf("Enter number :");
     scanf("%d",&num);
     int f = fact(num);
-    printf("The sum of %d is %d ", num , f);
+    printf("The factorial of %d is %d ", num , f);
     return 0; 
 }
